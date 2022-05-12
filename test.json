@@ -4,25 +4,29 @@
 		"UserId": "0",
 		"FirstName": "Uros",
 		"LastName": "Antalic",
-		"Info": "Gratis"
+		"Info": "Gratis",
+		"Score": "100"
 	},
 	{
 		"UserId": "1",
 		"FirstName": "Goran",
 		"LastName": "Ivancevic",
-		"Info": "Goranche"
+		"Info": "Goranche",
+		"Score": "200"
 	},
 	{
 		"UserId": "2",
 		"FirstName": "Srdjan",
 		"LastName": "Ristic",
-		"Info": "Role"
+		"Info": "Role",
+		"Score": "300"
 	},
 		{
 		"UserId": "3",
 		"FirstName": "Milan",
 		"LastName": "Lazic",
-		"Info": "The Big Kahuna"
+		"Info": "The Big Kahuna",
+		"Score": "400"
 	}
   ]
 }
